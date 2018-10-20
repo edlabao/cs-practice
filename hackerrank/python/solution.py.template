@@ -1,0 +1,30 @@
+#!/usr/bin/env python
+
+"""
+Problem URL:
+Level:
+Max Score:
+
+Example:
+>
+"""
+
+
+def solve():
+    answer = None
+    return answer
+
+
+# Automatically run example cases if running in a dev environment (i.e. in the
+# Eclipse IDE running the PyDev extension).
+if os.environ.get("PYDEV_CONSOLE_ENCODING"):
+
+    # Test example:
+
+    sys.exit()
+
+
+if __name__ == "__main__":
+
+    # Problem input/output.
+    pass
