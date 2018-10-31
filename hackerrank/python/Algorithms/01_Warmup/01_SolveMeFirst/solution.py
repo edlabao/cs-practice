@@ -4,11 +4,6 @@
 Problem URL: https://www.hackerrank.com/challenges/solve-me-first/problem
 Level: Easy
 Max Score: 1
-
-Example:
-2
-4
-> 6
 """
 
 
